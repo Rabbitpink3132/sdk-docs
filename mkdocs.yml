@@ -6,3 +6,8 @@ theme:
 
 nav:
   - 首页: index.md
+  - 快速开始: getting-started.md
+  - 安装: installation.md
+  - 使用教程: usage.md
+  - API: api.md
+  - 常见问题: faq.md
